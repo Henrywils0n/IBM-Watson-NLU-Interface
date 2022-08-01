@@ -6,8 +6,8 @@ To run locally
 contact me for the Watson api key and URL
 create and .env file in ```..../IBM-Watson-NLU-Interface/sentimentAnalyzerServer```
 
-```API_KEY=<key>
-API_URL=<URL>```
+```API_KEY=<key>```
+```API_URL=<URL>```
 
 Set directory to Server
 ```cd ..../IBM-Watson-NLU-Interface/sentimentAnalyzerServer```
