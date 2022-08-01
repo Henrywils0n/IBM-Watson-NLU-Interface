@@ -29,3 +29,6 @@ Set directory to Server
 
 start app
 ```npm start```
+
+This will run the app on localhost:8080
+Have FUN!
